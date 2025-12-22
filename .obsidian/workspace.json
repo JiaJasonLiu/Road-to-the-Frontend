@@ -8,49 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71b75271e002eacb",
+            "id": "cd972b9f5e1d27a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome Frontend Develoepr.md",
+                "file": "TypeScript/TODO - Utility Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome Frontend Develoepr"
+              "title": "TODO - Utility Types"
             }
           },
           {
-            "id": "3d2a9a2ff23508ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discriminate Unions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Discriminate Unions"
-            }
-          },
-          {
-            "id": "fe1f230c23bea398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Type Guard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Type Guard"
-            }
-          },
-          {
-            "id": "ba80f64378e3cec7",
+            "id": "a5ef7a9a8d5b3da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,35 +36,77 @@
             }
           },
           {
-            "id": "b0af160f8bbf4950",
+            "id": "fb98ae6c894d96d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Welcome Frontend Developer.md",
+                "file": "Factory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Welcome Frontend Developer"
+              "title": "Factory"
             }
           },
           {
-            "id": "f74966350efbd7e8",
+            "id": "fea52e0a1e85ec49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Welcome Frontend Developer.md",
+                "file": "React/Full Render Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Welcome Frontend Developer"
+              "title": "Full Render Cycle"
+            }
+          },
+          {
+            "id": "a9db19bf4d0e64f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind/Flex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flex"
+            }
+          },
+          {
+            "id": "408e366ddae789b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/TODO - Utility Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO - Utility Types"
+            }
+          },
+          {
+            "id": "8e5e313f82d4ff01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "this function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this function"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,16 +265,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74966350efbd7e8",
+  "active": "8e5e313f82d4ff01",
   "lastOpenFiles": [
-    "Untitled.md",
+    "this function.md",
+    "Javascript",
+    "Tailwind/Flex.md",
+    "React/Full Render Cycle.md",
+    "Tailwind",
+    "Factory.md",
     "1. Welcome Frontend Developer.md",
+    "OOP/Domain Logic vs Persistence Logic.md",
+    "TypeScript/TODO - Utility Types.md",
+    "OOP",
+    "TypeScript/Type Example - RequireAtLeastOne Type.md",
+    "TypeScript/`keyof` operator.md",
+    "TODO - Module Bundlers.md",
+    "Discriminate Unions.md",
+    "Type Guard.md",
+    "TypeScript/Automatic Type Inference for Object Access.md",
+    "Feature Driven Design.md",
+    "React/Architecture",
+    "🧠 Mindset.md",
+    "React",
+    "Lookup Types (or Indexed Access Types).md",
+    "TypeScript/Generics.md",
+    "TypeScript",
     "Reconciliation.md",
     "1. Table View.base",
     "Document Object Model (DOM).md",
     "Const.md",
-    "Conditional Types.md",
-    "Type Guard.md",
-    "Discriminate Unions.md"
+    "Conditional Types.md"
   ]
 }
