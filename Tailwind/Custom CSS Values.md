@@ -13,3 +13,7 @@ maps directly to:
 `grid-template-columns: auto 1fr;`
 
 The `[]` are the customer-css-value
+
+with the use of `col-start-1` you can specify them
+
+![[Pasted image 20260107095926.png]]
