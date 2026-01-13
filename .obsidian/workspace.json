@@ -4,123 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0e4eeabf1021d2f1",
+        "id": "dd2aebe2acb1fe27",
         "type": "tabs",
         "children": [
           {
-            "id": "cd972b9f5e1d27a6",
+            "id": "f88440f2a0d52201",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/TODO - Utility Types.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO - Utility Types"
-            }
-          },
-          {
-            "id": "a5ef7a9a8d5b3da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Welcome Frontend Developer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Welcome Frontend Developer"
-            }
-          },
-          {
-            "id": "fb98ae6c894d96d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Factory"
-            }
-          },
-          {
-            "id": "fea52e0a1e85ec49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Full Render Cycle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full Render Cycle"
-            }
-          },
-          {
-            "id": "a9db19bf4d0e64f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tailwind/Flex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flex"
-            }
-          },
-          {
-            "id": "408e366ddae789b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/TODO - Utility Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO - Utility Types"
-            }
-          },
-          {
-            "id": "8e5e313f82d4ff01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "this function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "this function"
-            }
-          },
-          {
-            "id": "14c62a15b1feff25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tailwind/Custom CSS Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Custom CSS Values"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,19 +176,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14c62a15b1feff25",
+  "active": "f88440f2a0d52201",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "TypeScript/TODO - Utility Types.md",
+    "1. Welcome Frontend Developer.md",
+    "Factory.md",
+    "React/Full Render Cycle.md",
     "Tailwind/Flex.md",
+    "this function.md",
     "Tailwind/Custom CSS Values.md",
     "React/Use Effect.md",
-    "this function.md",
     "Javascript",
-    "React/Full Render Cycle.md",
     "Tailwind",
-    "Factory.md",
-    "1. Welcome Frontend Developer.md",
     "OOP/Domain Logic vs Persistence Logic.md",
-    "TypeScript/TODO - Utility Types.md",
     "OOP",
     "TypeScript/Type Example - RequireAtLeastOne Type.md",
     "TypeScript/`keyof` operator.md",
