@@ -296,8 +296,12 @@
   },
   "active": "c55beb7260499e94",
   "lastOpenFiles": [
-    "TypeScript/Generics.md",
+    "conflict-files-obsidian-git.md",
     "TypeScript/Generic Type Params.md",
+    "Untitled",
+    "Untitled.md",
+    "Art.md",
+    "TypeScript/Generics.md",
     "TypeScript/`keyof` operator.md",
     "TypeScript/Automatic Type Inference for Object Access.md",
     "Conditional Types.md",
@@ -325,8 +329,6 @@
     "React",
     "TypeScript",
     "Reconciliation.md",
-    "1. Table View.base",
-    "Document Object Model (DOM).md",
-    "Const.md"
+    "1. Table View.base"
   ]
 }
